@@ -1,0 +1,28 @@
+{
+  "name": "re-route",
+  "version": "1.0.0",
+  "description": "generate regex to match urls with place holder strings. /url/:hi/:foo ",
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soldair/re-route.git"
+  },
+  "keywords": [
+    "url",
+    "regex",
+    "patch",
+    "slug"
+  ],
+  "author": "Ryan Day <soldair@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soldair/re-route/issues"
+  },
+  "homepage": "https://github.com/soldair/re-route#readme",
+  "devDependencies": {
+    "tape": "^4.5.1"
+  }
+}
